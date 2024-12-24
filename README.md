@@ -119,7 +119,7 @@
 
 > rivalz.ai sitesine girip dowland windows diyoruz
 
-> Kurulumu yapıyoruz
+> Kurulumu yapıyoruz.
 
 #
 
